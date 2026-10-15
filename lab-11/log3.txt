@@ -1,0 +1,3 @@
+INFO Server running
+WARNING Low memory
+ERROR Server stopped
